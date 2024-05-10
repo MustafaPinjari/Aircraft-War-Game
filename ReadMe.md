@@ -24,7 +24,8 @@ The Aircraft War Game is an exciting air combat game developed using Python and 
 
 ## Screenshots 📸
 
-![Aircraft War Game Screenshot](s1.png)(s2.png)
+![Aircraft War Game Screenshot](s1.png)
+![](s2.png)
 
 ## Dependencies 🛠️
 
